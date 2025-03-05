@@ -1,2 +1,3 @@
 # credit-card-fraud-detection
-![fraud](https://github.com/user-attachments/assets/43623437-decb-43f4-9979-be98c7a1e312)
+
+![credit-card-fraud-detection](https://github.com/user-attachments/assets/1d969e18-4589-48be-a38e-99ef338ad5d0)
